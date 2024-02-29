@@ -1,0 +1,51 @@
+10:02:00.974 [main] INFO  com.testcases.TC_002_LoginPage - clicked on contentlibrary button
+10:02:03.301 [main] INFO  com.testcases.TC_002_LoginPage - clicked on add content button
+10:02:04.292 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:02:04.304 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:07:54.102 [main] INFO  com.testcases.TC_002_LoginPage - Login page validate succesfully
+10:08:01.004 [main] INFO  com.testcases.TC_002_LoginPage - email id and password entered
+10:08:01.419 [main] INFO  com.testcases.TC_002_LoginPage - click on login button
+10:08:21.919 [main] INFO  com.testcases.TC_002_LoginPage - Account succesfully validated
+10:08:22.342 [main] INFO  com.testcases.TC_002_LoginPage - clicked on contentmanagement button
+10:08:23.133 [main] INFO  com.testcases.TC_002_LoginPage - clicked on contentlibrary button
+10:08:26.650 [main] INFO  com.testcases.TC_002_LoginPage - clicked on add content button
+10:08:28.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:08:28.047 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:11:36.312 [main] INFO  com.testcases.TC_002_LoginPage - Login page validate succesfully
+10:11:44.558 [main] INFO  com.testcases.TC_002_LoginPage - email id and password entered
+10:11:44.732 [main] INFO  com.testcases.TC_002_LoginPage - click on login button
+10:12:05.192 [main] INFO  com.testcases.TC_002_LoginPage - Account succesfully validated
+10:12:05.322 [main] INFO  com.testcases.TC_002_LoginPage - clicked on contentmanagement button
+10:12:05.729 [main] INFO  com.testcases.TC_002_LoginPage - clicked on contentlibrary button
+10:12:08.945 [main] INFO  com.testcases.TC_002_LoginPage - clicked on add content button
+10:12:10.047 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:12:10.073 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:12:50.558 [main] INFO  com.testcases.TC_002_LoginPage - Clicked on save and publish button
+10:42:15.546 [main] INFO  com.testcases.TC_002_LoginPage - Login page validate succesfully
+10:42:22.434 [main] INFO  com.testcases.TC_002_LoginPage - email id and password entered
+10:42:22.561 [main] INFO  com.testcases.TC_002_LoginPage - click on login button
+10:42:50.546 [main] INFO  com.testcases.TC_002_LoginPage - Account succesfully validated
+10:42:50.685 [main] INFO  com.testcases.TC_002_LoginPage - clicked on contentmanagement button
+10:42:50.933 [main] INFO  com.testcases.TC_002_LoginPage - clicked on contentlibrary button
+10:42:54.560 [main] INFO  com.testcases.TC_002_LoginPage - clicked on add content button
+10:42:55.260 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:42:55.274 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:43:36.466 [main] INFO  com.testcases.TC_002_LoginPage - Clicked on save and publish button
+10:47:28.624 [main] INFO  com.testcases.TC_002_LoginPage - Login page validate succesfully
+10:47:35.804 [main] INFO  com.testcases.TC_002_LoginPage - email id and password entered
+10:47:36.204 [main] INFO  com.testcases.TC_002_LoginPage - click on login button
+10:47:57.178 [main] INFO  com.testcases.TC_002_LoginPage - Account succesfully validated
+10:47:57.308 [main] INFO  com.testcases.TC_002_LoginPage - clicked on contentmanagement button
+10:47:57.740 [main] INFO  com.testcases.TC_002_LoginPage - clicked on contentlibrary button
+10:48:00.071 [main] INFO  com.testcases.TC_002_LoginPage - clicked on add content button
+10:48:01.627 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:48:01.637 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:48:53.153 [main] INFO  com.testcases.TC_002_LoginPage - Clicked on save and publish button
+11:10:43.312 [main] INFO  com.testcases.TC_002_LoginPage - Login page validate succesfully
+11:10:49.981 [main] INFO  com.testcases.TC_002_LoginPage - email id and password entered
+11:10:50.134 [main] INFO  com.testcases.TC_002_LoginPage - click on login button
+11:11:11.266 [main] INFO  com.testcases.TC_002_LoginPage - Account succesfully validated
+11:11:11.389 [main] INFO  com.testcases.TC_002_LoginPage - clicked on contentmanagement button
+11:11:11.533 [main] INFO  com.testcases.TC_002_LoginPage - clicked on contentlibrary button
+11:11:14.309 [main] INFO  com.testcases.TC_002_LoginPage - clicked on add content button
+11:11:14.885 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
